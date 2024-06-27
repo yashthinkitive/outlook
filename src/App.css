@@ -1,0 +1,16 @@
+.slick-prev:before {
+  color: #070707;
+  content: '←';
+}
+
+
+
+.slick-next:before {
+  color: #151616;
+  content: '→';
+}
+
+.css-h86owe-MuiDialogContent-root {
+  background-color: #f5f5f5;
+}
+

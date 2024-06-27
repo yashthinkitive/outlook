@@ -1,0 +1,20 @@
+
+.mattersCard {
+    margin-top: 1px;
+    padding: -20px;
+  }
+  
+
+  .matterContainer {
+    margin-top: -6px;
+   
+  }
+
+
+  .titleHover {
+    transition: color 0.3s ease; /* Smooth transition effect */
+  }
+  
+  .titleHover:hover {
+    color: black; /* Change color to black on hover */
+  }
